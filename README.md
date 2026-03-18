@@ -5,14 +5,16 @@
 </div>
 
 ---
-
+ 
 ### 🌌 What I Work On
-
-- 🤖 **AI Planning** — HDDL-based task planning for autonomous robotic missions
-- 🛰️ **MBSE** — Model-Based Systems Engineering with SysML/Papyrus
-- 🌑 **Lunar Robotics** — ConOps design for analogue lunar rover operations
-- 🧠 **ROS** — Navigation, localization, and waypoint mission execution
-
+ 
+- 🤖 **AI Planning & MBSE** — HDDL-based hierarchical task planning and SysML/Papyrus modelling for autonomous space systems
+- 🌑 **Lunar Robotics** — ConOps design, GNC, and AI planning for analogue lunar rover and lava tube exploration missions
+- 🛰️ **Satellite Operations** — on-board safety, autonomous de-orbiting, and ground/flight software ecosystems
+- 🚀 **Space Transportation** — multidisciplinary design of micro-launchers, reusable space tugs, and human lunar landers
+- 🪂 **Planetary Descent & Landing** — high-lift systems, parafoils, and aero-maneuvering for Titan and Moon landings
+- 📡 **Lunar Networks** — parametric data handling frameworks for autonomous lunar communication networks
+ 
 ---
 
 ### 🚀 Tech Stack
