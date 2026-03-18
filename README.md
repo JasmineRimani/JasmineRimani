@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jasmine+%F0%9F%8C%99;Aerospace+Engineer+%F0%9F%9A%80;Robotics+%26+AI+Planning+Researcher+%F0%9F%A4%96;Building+the+future+of+space+autonomy+%E2%9C%A8)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi%2C+Aerospace+Engineer+%F0%9F%9A%80;Robotics+%26+AI+Planning+Researcher+%F0%9F%A4%96;Building+the+future+of+space+autonomy+%E2%9C%A8)
 
 </div>
 
