@@ -44,6 +44,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d2b?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/jasminerimani/)
 [![X](https://img.shields.io/badge/X%20%2F%20Twitter-0d0d2b?style=for-the-badge&logo=x&logoColor=A78BFA)](https://x.com/RimaniJasmine)
 [![ORCID](https://img.shields.io/badge/ORCID-0d0d2b?style=for-the-badge&logo=orcid&logoColor=A78BFA)](https://orcid.org/0000-0003-1048-6799)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-0d0d2b?style=for-the-badge&logo=googlescholar&logoColor=A78BFA)](https://scholar.google.fr/citations?user=Ocb-LA0AAAAJ&hl=en)
+[![Academia](https://img.shields.io/badge/Academia.edu-0d0d2b?style=for-the-badge&logo=academia&logoColor=A78BFA)](https://politecnico-di-torino.academia.edu/JasmineRimani)
 
 </div>
 
